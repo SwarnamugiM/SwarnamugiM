@@ -1,7 +1,7 @@
 # Hi there, I'm Swarnamugi 👋  
 
 
-![2554012](https://github.com/user-attachments/assets/f594e0b4-fb2e-44d0-a4a3-9090bf8cdae5)
+![2554012 (1)](https://github.com/user-attachments/assets/0791556a-818a-47d2-8d90-f7a3917791ff)
 
 
 🎯 **Aspiring Software Developer** | 💻 Java & Full-Stack Enthusiast  
