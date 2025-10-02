@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Swarnamugi 👋  
+![2875568](https://github.com/user-attachments/assets/339997ee-c292-4725-9f0d-412cafb7d729)
 
-<!--
-**SwarnamugiM/SwarnamugiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Software Developer** | 💻 Java & Full-Stack Enthusiast  
 
-Here are some ideas to get you started:
+🌱 Currently learning **WordPress development** and exploring web technologies  
+💡 Passionate about building user-friendly and creative web apps  
+🚀 Working on personal projects to strengthen my development skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** Java, HTML, CSS, JavaScript  
+- **Frameworks & Tools:** Node.js, Express.js, WordPress, MongoDB, React  
+- **Others:** Git, Postman  
+
+📫 **Connect with me:**  
+[LinkedIn](www.linkedin.com/in/swarnamugi-m-084859227) | [Email](swarnamugi.kadri@gmail.com)
