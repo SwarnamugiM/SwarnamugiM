@@ -14,4 +14,4 @@
 - **Others:** Git, Postman  
 
 📫 **Connect with me:**  
-[LinkedIn](www.linkedin.com/in/swarnamugi-m-084859227) | [Email](swarnamugi.kadri@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/swarnamugi-m-084859227/) | [Email](swarnamugi.kadri@gmail.com)
